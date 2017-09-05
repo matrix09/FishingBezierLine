@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AM_CH_HuLi_00_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: AM_CH_HuLi_00
+    m_Weight: 0
+  - m_Path: Root
+    m_Weight: 0
+  - m_Path: Root/Bip01
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip001 Footsteps
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01-Tail
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01-Tail/Bip01-Tail1
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01-Tail/Bip01-Tail1/Bip01-Tail2
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01-Tail/Bip01-Tail1/Bip01-Tail2/Bip01-Tail3
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01-Tail/Bip01-Tail1/Bip01-Tail2/Bip01-Tail3/Bip001
+      TailNub
+    m_Weight: 0
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01LThigh
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01LThigh/Bip01LCalf
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01LThigh/Bip01LCalf/Bip01LHorseLink
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01LThigh/Bip01LCalf/Bip01LHorseLink/Bip01LFoot
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01LThigh/Bip01LCalf/Bip01LHorseLink/Bip01LFoot/Bip01LToe0
+    m_Weight: 0
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01RThigh
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01RThigh/Bip01RCalf
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01RThigh/Bip01RCalf/Bip01RHorseLink
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01RThigh/Bip01RCalf/Bip01RHorseLink/Bip01RFoot
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01RThigh/Bip01RCalf/Bip01RHorseLink/Bip01RFoot/Bip01RToe0
+    m_Weight: 0
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01LClavicle
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01LClavicle/Bip01LUpperArm
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01LClavicle/Bip01LUpperArm/Bip01LForeArm
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01LClavicle/Bip01LUpperArm/Bip01LForeArm/Bip01LHand
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01LClavicle/Bip01LUpperArm/Bip01LForeArm/Bip01LHand/Bip01LFinger0
+    m_Weight: 0
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01LClavicle/Bip01LUpperArm/Bip01LForeArm/Bip01LHand/Bip01LFinger0/Bip001
+      HeadNub
+    m_Weight: 0
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01Neck1
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01Neck1/Bip01Head
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01Neck1/Bip01Head/Bip01Head_Jw
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01RClavicle
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01RClavicle/Bip01RUpperArm
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01RClavicle/Bip01RUpperArm/Bip01RForeArm
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01RClavicle/Bip01RUpperArm/Bip01RForeArm/Bip01RHand
+    m_Weight: 1
+  - m_Path: Root/Bip01/Bip01Pelvis/Bip01Spine/Bip01Spine1/Bip01Spine2/Bip01Neck/Bip01RClavicle/Bip01RUpperArm/Bip01RForeArm/Bip01RHand/Bip01RFinger0
+    m_Weight: 0

@@ -1,0 +1,454 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: gif
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 800, y: 240, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 6b360bee10f13bf48bf8a3c3095e99eb, type: 2}
+  sprites:
+  - name: P09
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 2243
+      width: 800
+      height: 276
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 2243
+      width: 800
+      height: 276
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0652173907
+    paddingBottom: .115942031
+  - name: P01
+    outer:
+      serializedVersion: 2
+      x: 1610
+      y: 4001
+      width: 3
+      height: 3
+    inner:
+      serializedVersion: 2
+      x: 1610
+      y: 4001
+      width: 3
+      height: 3
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: P02
+    outer:
+      serializedVersion: 2
+      x: 1606
+      y: 4001
+      width: 3
+      height: 3
+    inner:
+      serializedVersion: 2
+      x: 1606
+      y: 4001
+      width: 3
+      height: 3
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: P15
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1988
+      width: 800
+      height: 254
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1988
+      width: 800
+      height: 254
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .133858263
+    paddingBottom: .149606302
+  - name: P00
+    outer:
+      serializedVersion: 2
+      x: 1602
+      y: 4001
+      width: 3
+      height: 3
+    inner:
+      serializedVersion: 2
+      x: 1602
+      y: 4001
+      width: 3
+      height: 3
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: P07
+    outer:
+      serializedVersion: 2
+      x: 801
+      y: 2824
+      width: 800
+      height: 299
+    inner:
+      serializedVersion: 2
+      x: 801
+      y: 2824
+      width: 800
+      height: 299
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0301003344
+    paddingBottom: .0602006689
+  - name: P14
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 3443
+      width: 800
+      height: 326
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 3443
+      width: 800
+      height: 326
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: P12
+    outer:
+      serializedVersion: 2
+      x: 801
+      y: 3770
+      width: 800
+      height: 326
+    inner:
+      serializedVersion: 2
+      x: 801
+      y: 3770
+      width: 800
+      height: 326
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: P05
+    outer:
+      serializedVersion: 2
+      x: 801
+      y: 3448
+      width: 800
+      height: 321
+    inner:
+      serializedVersion: 2
+      x: 801
+      y: 3448
+      width: 800
+      height: 321
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0155763244
+    paddingBottom: 0
+  - name: P10
+    outer:
+      serializedVersion: 2
+      x: 801
+      y: 3134
+      width: 800
+      height: 308
+    inner:
+      serializedVersion: 2
+      x: 801
+      y: 3134
+      width: 800
+      height: 308
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .00324675324
+    paddingBottom: .0551948063
+  - name: P06
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 2520
+      width: 800
+      height: 298
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 2520
+      width: 800
+      height: 298
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0771812052
+    paddingBottom: .0167785231
+  - name: P13
+    outer:
+      serializedVersion: 2
+      x: 801
+      y: 2261
+      width: 800
+      height: 258
+    inner:
+      serializedVersion: 2
+      x: 801
+      y: 2261
+      width: 800
+      height: 258
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .124031007
+    paddingBottom: .139534891
+  - name: P03
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 1713
+      width: 741
+      height: 274
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 1713
+      width: 741
+      height: 274
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: .0796221346
+    paddingTop: .0583941601
+    paddingBottom: .131386861
+  - name: P04
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 3124
+      width: 800
+      height: 318
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 3124
+      width: 800
+      height: 318
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .00314465398
+    paddingBottom: .0220125783
+  - name: P11
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 3770
+      width: 800
+      height: 326
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 3770
+      width: 800
+      height: 326
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: P08
+    outer:
+      serializedVersion: 2
+      x: 801
+      y: 2528
+      width: 800
+      height: 290
+    inner:
+      serializedVersion: 2
+      x: 801
+      y: 2528
+      width: 800
+      height: 290
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .0137931034
+    paddingBottom: .110344827
+  - name: P16
+    outer:
+      serializedVersion: 2
+      x: 0
+      y: 2819
+      width: 800
+      height: 304
+    inner:
+      serializedVersion: 2
+      x: 0
+      y: 2819
+      width: 800
+      height: 304
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .00328947371
+    paddingBottom: .0690789446
+  - name: baibian
+    outer:
+      serializedVersion: 2
+      x: 1602
+      y: 4005
+      width: 145
+      height: 91
+    inner:
+      serializedVersion: 2
+      x: 1602
+      y: 4005
+      width: 145
+      height: 90
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: huangtiao
+    outer:
+      serializedVersion: 2
+      x: 1748
+      y: 4079
+      width: 200
+      height: 17
+    inner:
+      serializedVersion: 2
+      x: 1748
+      y: 4079
+      width: 200
+      height: 17
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: P18
+    outer:
+      serializedVersion: 2
+      x: 742
+      y: 1844
+      width: 507
+      height: 143
+    inner:
+      serializedVersion: 2
+      x: 742
+      y: 1844
+      width: 507
+      height: 143
+    rotated: 0
+    paddingLeft: .577909291
+    paddingRight: 0
+    paddingTop: .916083932
+    paddingBottom: .363636374
+  - name: P17
+    outer:
+      serializedVersion: 2
+      x: 801
+      y: 2018
+      width: 800
+      height: 224
+    inner:
+      serializedVersion: 2
+      x: 801
+      y: 2018
+      width: 800
+      height: 224
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: .263392866
+    paddingBottom: .191964284
+  - name: P19
+    outer:
+      serializedVersion: 2
+      x: 1615
+      y: 4002
+      width: 1
+      height: 1
+    inner:
+      serializedVersion: 2
+      x: 1615
+      y: 4002
+      width: 1
+      height: 1
+    rotated: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mCoordinates: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
